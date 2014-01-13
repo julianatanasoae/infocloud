@@ -1,4 +1,4 @@
-infocloud
+InfoCloud
 =========
 
 InfoCloud is a platform that targets informatics teachers and students who want to perform
